@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Sou Desenvolvedor Front-end apaixonado por tecnologia. estou no ramo da programação a 3 anos, sempre ajudando no desenvolvimento de marcas, trazendo soluções digitais inovadoras e aprimoradas esteticamente.</h4>
+<h4 align="left">Sou Desenvolvedor Front-end apaixonado por tecnologia. Estou no ramo da programação a 3 anos, sempre ajudando no desenvolvimento de marcas, trazendo soluções digitais inovadoras e aprimoradas esteticamente.</h4>
 
 ###
 
